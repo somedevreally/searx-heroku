@@ -2,7 +2,7 @@
     "name": "SearxNG",
     "description": "Privacy-respecting, hackable metasearch engine",
     "repository": "https://github.com/searxng/searxng",
-    "logo": "https://raw.githubusercontent.com/searx/searx/master/searx/static/themes/oscar/img/logo_searx_a.png",
+    "logo": "https://github.com/searxng/searxng/raw/master/searx/static/themes/simple/img/searxng.png",
     "keywords": [
         "search",
         "metasearch",
