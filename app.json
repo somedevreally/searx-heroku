@@ -1,7 +1,7 @@
 {
-    "name": "Searx",
+    "name": "SearxNG",
     "description": "Privacy-respecting, hackable metasearch engine",
-    "repository": "https://github.com/searx/searx",
+    "repository": "https://github.com/searxng/searxng",
     "logo": "https://raw.githubusercontent.com/searx/searx/master/searx/static/themes/oscar/img/logo_searx_a.png",
     "keywords": [
         "search",
@@ -14,7 +14,7 @@
     "env": {
         "INSTANCE_NAME": {
             "description": "Instance name",
-            "value": "searx",
+            "value": "searxNG",
             "required": false
         }
     }
